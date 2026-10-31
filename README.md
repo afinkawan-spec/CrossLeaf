@@ -1,5 +1,7 @@
 # CrossLeaf
 
+![CrossLeaf logo](branding/CrossLeaf-logo.png)
+
 **CrossLeaf is a deliberately personal, vibe-coded firmware for one Xteink X4 reader.** It was built iteratively with AI coding assistance around one person's specific likes and dislikes: keep the reading experience and useful everyday tools, remove menu clutter, and make the remaining choices behave exactly as requested. It is not intended to be a universal configuration or a feature-for-feature replacement for CrossPoint.
 
 CrossLeaf 1.0.0 is based on CrossPoint Reader 1.6.5. The source records the choices made for this particular device; some upstream implementation remains in the code even when its setting or menu entry is hidden. The release firmware has been tested on-device.
