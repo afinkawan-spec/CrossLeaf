@@ -15,6 +15,35 @@ CrossLeaf 1.0.0 is based on CrossPoint Reader 1.6.5. The source records the choi
 - **Always-visible reading indicators:** Whole-book progress is shown along the bottom and battery charge along the top. Both bars show by default and have independent thickness settings; there is no battery icon or percentage display.
 - **Useful tools kept:** Dictionary selection and lookup, EPUB illustrations, Book Metadata, manual Wi-Fi network joining for file transfer, reading-cache clearing, and SD-card firmware updates remain available.
 
+## Reading controls
+
+These controls apply while a book is open. The side buttons are set to Previous/Next; the front Left/Right buttons also turn pages.
+
+### In-reader (Game Book Mode off)
+
+| Control | Action |
+| --- | --- |
+| Side Up / front Left | Previous page |
+| Side Down / front Right | Next page |
+| Back, short press | Next page |
+| Back, long press | Return to Home |
+| Confirm, short press | Open the in-reader menu |
+| Power, short press | Sleep |
+
+### Game Book Mode on
+
+| Control | Action |
+| --- | --- |
+| Side Up / front Left | Previous page |
+| Side Down / front Right | Next page |
+| Back, short press | Next page |
+| Back, long press | Return to Home |
+| Confirm, short press | Open the link selector for choices on the current page; when viewing a linked page, the selector also offers a return to the previous page |
+| Confirm, long press | Open the in-reader menu |
+| Power, short press | Sleep |
+
+Selecting a link in Game Book Mode navigates to that linked page as the current reading position, rather than automatically returning to the page containing the link. If the page has no selectable links (and there is no prior page to return to), a short Confirm press has no effect.
+
 The point is not to remove code just to make the firmware smaller. CrossLeaf favors a focused interface and fixed preferences over exposing every upstream option. Where an upstream feature is only hidden or fixed in the menus, this README does not imply that its implementation has been completely removed from the binary.
 
 ## Source and release
