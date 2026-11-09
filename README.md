@@ -6,7 +6,7 @@
 
 **NOTE: This is for the original version Xteink X4, not the X4 Classic. I have no idea if it will work on that.**
 
-CrossLeaf 1.0.0 is based on CrossPoint Reader 1.6.5. The source records the choices made for this particular device; some upstream implementation remains in the code even when its setting or menu entry is hidden. The release firmware has been tested on-device.
+CrossLeaf 1.0.0 is based on CrossPoint Reader 1.6.5. The source records the choices made for this particular device; some upstream implementation remains in the code even when its setting or menu entry is hidden. The release firmware has been tested on-device. I've tested it on three different units with no issues but, obviously, use at your own risk.
 
 ## What changed from CrossPoint
 
